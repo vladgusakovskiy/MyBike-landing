@@ -1,4 +1,4 @@
-# Miami landing
+# MyBike landing
 Fully responsive layout was made by using CSS Grid and FlexBox
 
 Technology stack: HTML, SASS (SCSS), JavaScript Methodology: BEM
